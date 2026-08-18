@@ -1,0 +1,182 @@
+====================================================================
+                TERMOS DE SERVIÇO - SyneX Pay (Bot)
+====================================================================
+Última atualização: 18 de agosto de 2026
+
+Ao adicionar, usar ou interagir com o bot SyneX Pay ("Bot") em um
+servidor do Discord, ou ao realizar compras através dele, você
+declara que leu, entendeu e concorda com estes Termos de Serviço.
+Se você não concorda, não utilize o Bot.
+
+--------------------------------------------------------------------
+1. DESCRIÇÃO DO SERVIÇO
+--------------------------------------------------------------------
+O SyneX Pay é um bot de automação de loja para Discord que permite:
+- Exibição e venda de produtos digitais;
+- Processamento de pagamentos via PIX (Mercado Pago) e criptomoedas;
+- Entrega automática de chaves/produtos digitais;
+- Sistema de saldo/carteira interna, cupons e descontos;
+- Sistema de tickets de suporte;
+- Sistema de revendedores;
+- Sorteios, propagandas e convites personalizados.
+
+--------------------------------------------------------------------
+2. ELEGIBILIDADE
+--------------------------------------------------------------------
+- Você deve cumprir os Termos de Serviço do Discord.
+- Você deve ter a idade mínima exigida pelo Discord na sua região
+  (geralmente 13 anos) e a maioridade/consentimento para efetuar
+  compras.
+- Ao comprar, você declara que os dados de pagamento informados são
+  válidos e de sua titularidade ou uso autorizado.
+
+--------------------------------------------------------------------
+3. COMPRAS E PAGAMENTOS
+--------------------------------------------------------------------
+- Os preços são exibidos no momento da compra e podem sofrer
+  descontos, cupons ou promoções.
+- Pagamentos PIX são processados pela Mercado Pago; pagamentos em
+  cripto seguem as instruções exibidas na compra.
+- A confirmação do pagamento pode ser automática ou manual pela
+  administração.
+- Após a confirmação, o produto digital (ex.: chave/arquivo) é
+  entregue automaticamente na sua DM e/ou no canal indicado.
+- É sua responsabilidade manter suas DMs abertas para receber a
+  entrega.
+
+--------------------------------------------------------------------
+4. PRODUTOS DIGITAIS E ENTREGA
+--------------------------------------------------------------------
+- Todos os produtos são digitais (chaves, arquivos, acessos).
+- A entrega ocorre eletronicamente. Não há envio físico.
+- Downloads podem ser disponibilizados por arquivo anexado ou por
+  link externo, conforme configurado pela loja.
+
+--------------------------------------------------------------------
+5. REEMBOLSOS
+--------------------------------------------------------------------
+- Por se tratar de produtos digitais de entrega imediata, reembolsos
+  seguem a política definida pelo proprietário da loja/servidor.
+- Em caso de falha de entrega ou cobrança indevida, abra um ticket
+  de suporte para análise.
+
+--------------------------------------------------------------------
+6. SALDO / CARTEIRA INTERNA
+--------------------------------------------------------------------
+- O saldo é um crédito interno usado apenas dentro do Bot.
+- O saldo não é dinheiro real, não é transferível fora do sistema e
+  não é resgatável em espécie, salvo decisão do proprietário.
+- A administração pode adicionar, remover ou ajustar saldos.
+
+--------------------------------------------------------------------
+7. REVENDEDORES
+--------------------------------------------------------------------
+- Revendedores autorizados podem ter condições e preços especiais.
+- O uso indevido da função de revenda pode resultar em remoção do
+  benefício e/ou banimento.
+
+--------------------------------------------------------------------
+8. CONDUTA PROIBIDA
+--------------------------------------------------------------------
+É proibido:
+- Fraudar pagamentos, gerar estornos indevidos (chargebacks) ou usar
+  meios de pagamento não autorizados;
+- Tentar explorar falhas, burlar descontos, cupons ou estoque;
+- Automatizar, sobrecarregar ou abusar do Bot (spam/flood);
+- Revender ou distribuir produtos sem autorização;
+- Usar o Bot para qualquer finalidade ilegal.
+O descumprimento pode resultar em bloqueio, cancelamento de compras
+e banimento, sem prejuízo de outras medidas.
+
+--------------------------------------------------------------------
+9. LISTA DE COMANDOS
+--------------------------------------------------------------------
+Observação: todos os comandos abaixo são de uso administrativo
+(exigem permissão de Administrador). Compradores interagem pela loja
+por meio de botões e menus, sem precisar de comandos.
+
+> Loja e Produtos
+  /setproducts      - Publicar painel da loja
+  /createproduct    - Cadastrar um novo produto
+  /listproducts     - Listar produtos cadastrados
+  /editarproduto    - Editar produto
+  /deletarproduto   - Excluir produto
+  /setembed         - Publicar embed de produto em um canal
+  /configproduto    - Configurar cargo e canal de download por produto
+  /download         - Publicar botão/arquivo de download de um produto
+
+> Estoque
+  /addstock         - Central de estoque (adicionar chaves)
+  /removestock      - Central de remoção de estoque
+  /checkstock       - Consultar estoque
+  /clearstock       - Limpar estoque
+
+> Descontos e Cupons
+  /adddiscount      - Central de descontos (global, produto, plano, cupom)
+
+> Saldo / Carteira
+  /addsaldo         - Adicionar saldo a um usuário
+  /removesaldo      - Remover saldo de um usuário
+  /setsaldo         - Definir saldo de um usuário
+  /checksaldo       - Consultar saldo
+  /topsaldo         - Ranking de saldo
+
+> Pagamentos
+  /confirmpayment   - Confirmar compra manualmente
+  /gerarpagamento   - Gerar cobrança PIX personalizada
+  /confirmpix       - Confirmar PIX manualmente
+  /listpayments     - Listar cobranças PIX ativas
+  /pix              - Gerar PIX avulso
+
+> Revendedores
+  /addreseller      - Gerenciar revendedores
+  /removereseller   - Remover revendedor
+
+> Comunidade e Marketing
+  /propaganda       - Central de propaganda
+  /sorteio          - Criar sorteio
+  /updates          - Enviar embed de atualizações
+  /invite           - Publicar um convite personalizado
+  /ticket           - Publicar painel de tickets
+
+> Sistema e Relatórios
+  /comandos         - Central de comandos
+  /stats            - Dashboard de vendas
+  /analytics        - Análise detalhada
+  /export           - Exportar dados do sistema
+  /system           - Informações do sistema
+  /testembed        - Testar embed de entrega na sua DM
+  /limpar           - Limpar mensagens do canal
+  /limpardm         - Limpar mensagens do bot na DM de um usuário
+
+--------------------------------------------------------------------
+10. ISENÇÃO DE RESPONSABILIDADE
+--------------------------------------------------------------------
+- O Bot é fornecido "como está", sem garantias de disponibilidade
+  ininterrupta.
+- Não nos responsabilizamos por falhas do Discord, da Mercado Pago,
+  de redes de criptomoedas ou de serviços de terceiros.
+- Não somos responsáveis pelo uso indevido de produtos adquiridos.
+
+--------------------------------------------------------------------
+11. LIMITAÇÃO DE RESPONSABILIDADE
+--------------------------------------------------------------------
+Na máxima extensão permitida por lei, o proprietário do Bot não será
+responsável por danos indiretos, incidentais ou consequenciais
+decorrentes do uso ou da impossibilidade de uso do serviço.
+
+--------------------------------------------------------------------
+12. ALTERAÇÕES NOS TERMOS
+--------------------------------------------------------------------
+Estes Termos podem ser atualizados a qualquer momento. O uso
+contínuo do Bot após alterações representa concordância com a versão
+vigente.
+
+--------------------------------------------------------------------
+13. CONTATO
+--------------------------------------------------------------------
+Dúvidas, suporte ou solicitações:
+- Servidor de suporte no Discord: [INSIRA O CONVITE DO SEU SERVIDOR]
+- Contato do proprietário: [INSIRA SEU CONTATO / E-MAIL]
+
+====================================================================

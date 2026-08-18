@@ -1,0 +1,134 @@
+====================================================================
+             POLÍTICA DE PRIVACIDADE - SyneX Pay (Bot)
+====================================================================
+Última atualização: 18 de agosto de 2026
+
+Esta Política de Privacidade explica quais dados o bot SyneX Pay
+("Bot") coleta, como são usados, armazenados e compartilhados. Ao
+usar o Bot, você concorda com as práticas descritas abaixo.
+
+--------------------------------------------------------------------
+1. DADOS QUE COLETAMOS
+--------------------------------------------------------------------
+O Bot pode coletar e armazenar:
+
+a) Dados de identificação do Discord
+   - ID de usuário do Discord;
+   - Nome de usuário / tag;
+   - ID do servidor (guild) e dos canais onde ocorre a interação.
+
+b) Dados de compra e financeiros internos
+   - Histórico de transações e compras;
+   - Produtos e planos adquiridos;
+   - Saldo/carteira interna e histórico de movimentações;
+   - Cupons e descontos utilizados;
+   - Identificadores de cobrança (ex.: txid do PIX).
+
+c) Dados de suporte
+   - Conteúdo de tickets de suporte abertos por você.
+
+d) Dados de revenda (quando aplicável)
+   - Status de revendedor e condições associadas.
+
+IMPORTANTE: O Bot NÃO armazena dados sensíveis de cartão de crédito.
+Os pagamentos são processados por provedores externos (Mercado Pago
+para PIX e redes de criptomoedas), que possuem suas próprias
+políticas de privacidade.
+
+--------------------------------------------------------------------
+2. COMO USAMOS OS DADOS
+--------------------------------------------------------------------
+Utilizamos os dados para:
+- Processar compras e confirmar pagamentos;
+- Entregar produtos digitais e chaves;
+- Gerenciar saldo, descontos, cupons e revendedores;
+- Fornecer suporte via tickets;
+- Gerar relatórios e estatísticas de vendas (uso interno);
+- Prevenir fraudes e abusos.
+
+--------------------------------------------------------------------
+3. ARMAZENAMENTO
+--------------------------------------------------------------------
+- Os dados são armazenados em arquivos internos (formato JSON) no
+  ambiente/hospedagem onde o Bot é executado.
+- O acesso é restrito ao proprietário/administração do Bot.
+
+--------------------------------------------------------------------
+4. COMPARTILHAMENTO COM TERCEIROS
+--------------------------------------------------------------------
+Compartilhamos dados apenas na medida necessária com:
+- Discord: plataforma sobre a qual o Bot opera;
+- Mercado Pago: processamento de pagamentos PIX;
+- Redes de criptomoedas: quando o pagamento é feito em cripto.
+
+Cada serviço possui sua própria política de privacidade. Não
+vendemos nem comercializamos seus dados pessoais com terceiros.
+
+--------------------------------------------------------------------
+5. RETENÇÃO DE DADOS
+--------------------------------------------------------------------
+- Os dados são mantidos enquanto forem necessários para operação da
+  loja, suporte, obrigações fiscais/legais e prevenção a fraudes.
+- Registros de transações podem ser mantidos por período maior por
+  motivos legais e contábeis.
+
+--------------------------------------------------------------------
+6. SEUS DIREITOS
+--------------------------------------------------------------------
+Você pode solicitar:
+- Acesso aos dados que temos sobre você;
+- Correção de dados incorretos;
+- Exclusão dos seus dados (quando não houver obrigação legal de
+  retenção).
+
+Para exercer esses direitos, abra um ticket de suporte ou use os
+contatos no final deste documento. A exclusão de determinados dados
+pode impossibilitar o uso de partes do serviço (ex.: histórico de
+compras e saldo).
+
+--------------------------------------------------------------------
+7. SEGURANÇA
+--------------------------------------------------------------------
+- Adotamos medidas razoáveis para proteger os dados armazenados.
+- Nenhum sistema é 100% seguro; não podemos garantir segurança
+  absoluta contra acessos não autorizados.
+
+--------------------------------------------------------------------
+8. PRIVACIDADE DE MENORES
+--------------------------------------------------------------------
+- O Bot não se destina a menores da idade mínima exigida pelo
+  Discord na sua região.
+- Se identificarmos coleta de dados de alguém abaixo dessa idade,
+  os dados poderão ser removidos.
+
+--------------------------------------------------------------------
+9. COMANDOS QUE ENVOLVEM DADOS
+--------------------------------------------------------------------
+Os comandos abaixo (uso administrativo) manipulam dados de usuários:
+  /checksaldo, /addsaldo, /removesaldo, /setsaldo, /topsaldo
+      - consulta e gestão de saldo/carteira.
+  /confirmpayment, /confirmpix, /gerarpagamento, /listpayments, /pix
+      - dados de cobrança e pagamentos.
+  /addreseller, /removereseller
+      - dados de revendedores.
+  /export
+      - exportação de dados do sistema (uso restrito da administração).
+  /limpardm
+      - remoção de mensagens do bot na DM de um usuário.
+  /stats, /analytics
+      - relatórios agregados de vendas.
+
+--------------------------------------------------------------------
+10. ALTERAÇÕES NESTA POLÍTICA
+--------------------------------------------------------------------
+Esta Política pode ser atualizada a qualquer momento. O uso contínuo
+do Bot após alterações representa concordância com a versão vigente.
+
+--------------------------------------------------------------------
+11. CONTATO
+--------------------------------------------------------------------
+Para dúvidas ou solicitações sobre privacidade:
+- Servidor de suporte no Discord: [INSIRA O CONVITE DO SEU SERVIDOR]
+- Contato do proprietário: [INSIRA SEU CONTATO / E-MAIL]
+
+====================================================================
